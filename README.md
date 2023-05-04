@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Elvinos33.Elvinos33&"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -20,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Elvin from Oslo, Norway<br><br>- 🔭 I’m working as Steve Jobs<br>- 📚 I'm currently learning ASP.NET<br>- ⚡ In my free time I do programming</p>
+<p align="left">I'm Elvin from Oslo, Norway<br><br>- 🔭 I'm a Student at Elvebakken High School<br>- 📚 I'm currently learning ASP.NET<br>- ⚡ In my free time I do programming</p>
 
 ###
 
@@ -69,5 +75,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Elvinos33&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
