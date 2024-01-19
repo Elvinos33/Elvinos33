@@ -8,6 +8,4 @@
 
 <p align="left">I'm Elvin, a developer from Oslo, Norway<br><br>- 🔭 I’m currently a student at Elvebakken VGS<br>- 📚 I'm currently learning Kubernetes & Docker<br>- ⚡ In my free time I play videogames</p>
 
-###
 
-<h3 align="center">🛠 Language and tools</h3>
